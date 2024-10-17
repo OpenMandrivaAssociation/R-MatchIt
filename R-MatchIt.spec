@@ -7,7 +7,7 @@ Release:          1
 Summary:          The skew-normal and skew-t distributions
 Group:            Sciences/Mathematics
 License:          GPLv2
-URL:              http://cran.r-project.org/web/packages/MatchIt/index.html
+URL:              https://cran.r-project.org/web/packages/MatchIt/index.html
 Source0:          http://cran.r-project.org/src/contrib/MatchIt_2.4-21.tar.gz
 BuildRequires:    R-devel R-MASS R-WhatIf R-cem R-nnet R-rpart R-mgcv R-Matching texlive-wallpaper
 Requires:         R-core R-MASS R-WhatIf R-cem R-nnet R-rpart R-mgcv R-Matching texlive-wallpaper
